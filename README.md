@@ -6,7 +6,7 @@ The app provides a clean UI where users can browse, search, view details, and ad
 ---
 
 ## 🚀 Live Demo  
-🔗 [View Live Site](https://your-live-link-here)  
+🔗 [View Live Site](https://profound-cajeta-39f7e2.netlify.app/)  
 
 ## 📂 Repository  
 🔗 [Library-App](https://github.com/vjbravo123/Library-App)  
